@@ -1,0 +1,27 @@
+License Agreement - Perjanjian Lisensi
+======================================
+
+This file from installation is owned by Microsoft Corporation it was unsupported and was modificated to can running on Windows Vista, Windows 7, Windows 8, Windows 8.1, dan Windows 10.
+			===
+Berkas dari instalasi ini milik Microsoft Corporation yang kini tidak didukung dan telah dimodifikasikan untuk bisa berjalan di atas Windows Vista, Windows 7, Windows 8, Windows 8.1, dan Windows 10.
+
+This rights is free software which you can shared and modified under GNU GPL v3. I hope you appreciate the work that i've made and you are satisfied to use.
+			===
+Hak ini free software yang anda bisa sebarluaskan dan modifikasi dibawah GNU GPL v3. Saya harap anda menghargai karya yang saya buat dan anda puas menggunakannya.
+
+You can read GNU GPL v3 in "Program Files\Windows NT\Respack\LICENSE.TXT".
+			===
+Anda bisa membaca GNU GPL v3 di "Program Files\Windows NT\Respack\LICENSE.TXT".
+
+
+
+
+
+Surabaya, January 22, 2017
+
+Sincerly - Salam
+Faizal Hamzah
+
+
+
+The Firefox Foundation
